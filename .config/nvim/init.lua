@@ -1,0 +1,5 @@
+require("bootstrap")
+require("colors")
+require("keymaps")
+require("plugins")
+require("settings")
